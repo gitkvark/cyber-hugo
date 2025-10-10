@@ -1,0 +1,5 @@
+# config/_default/taxonomies.toml
+
+tag = "tags"
+category = "categories"
+author = "authors"

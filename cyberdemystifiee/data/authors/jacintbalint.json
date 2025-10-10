@@ -1,0 +1,13 @@
+{
+  "name": "Jacint BALINT",
+  "image": "/img/profil.jpg",
+  "bio": "DevOps Engineer",
+  "social": [
+    {
+      "linkedin": "https://linkedin.com/in/bjacint"
+    },
+    {
+      "github": "https://github.com/gitkvark"
+    }
+  ]
+}

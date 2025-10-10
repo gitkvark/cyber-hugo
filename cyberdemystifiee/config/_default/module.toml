@@ -1,0 +1,5 @@
+# config/_default/module.toml
+
+[[imports]]
+disable = false
+path = "github.com/nunocoracao/blowfish/v2"

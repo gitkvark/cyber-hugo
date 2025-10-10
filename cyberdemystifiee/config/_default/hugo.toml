@@ -1,0 +1,17 @@
+# config/_default/hugo.toml
+
+baseURL = "https://cybersecurite.demystifiee.fr/"
+defaultContentLanguage = "fr"
+
+enableEmoji = true
+
+pagination.pagerSize = 20
+
+relativeURLs = true
+publishDir = "../docs"
+
+[imaging]
+  anchor = 'Center'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

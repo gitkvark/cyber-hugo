@@ -1,0 +1,20 @@
+# config/_default/languages.fr.toml
+
+title = "Cybersécurité démystifiée"
+
+disabled = false
+languageCode = "fr-FR"
+languageName = "Français"
+
+[params]
+  displayName = "FR"
+  isoCode = "fr"
+
+[params.author]
+name = "Jacint BALINT"
+image = "img/profil.jpg"
+headline = "Spécialiste en Cybersécurité"
+bio = "A little bit about me"
+links = [
+  { linkedin = "https://linkedin.com/in/bjacint" }
+]

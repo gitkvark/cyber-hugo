@@ -1,0 +1,21 @@
+# config/_default/menus.fr.toml
+
+[[main]]
+  pre = "expand"
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  pre = "bars"
+  name = "Catégories"
+  pageRef = "categories"
+  weight = 20
+
+[[footer]]
+  name = "Authors"
+  pageRef = "authors"
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
