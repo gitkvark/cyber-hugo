@@ -1,9 +1,12 @@
 +++
 title = "Principes de la gouvernance de la sécurité"
 date = "2025-10-11 00:00:00+0000"
+draft = false
 categories = [ "Domain 1: Security and Risk Management" ]
 tags = [ "CISSP" ]
 authors = [ "jacint" ]
+series = [ "Security and Risk Management" ]
+series_order = 1.3
 +++
 
 La gouvernance de la sécurité (*security governance*) est un cadre fondamental pour garantir que la démarche de sécurité d'une organisation reste parfaitement alignée avec ses objectifs métiers, tout en étant mise en œuvre de façon structurée et contrôlée. 

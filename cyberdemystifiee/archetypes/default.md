@@ -1,5 +1,10 @@
 +++
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = '{{ .Date }}'
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+categories = [ "Domain 1: Security and Risk Management" ]
+tags = [ "CISSP" ]
+authors = [ "jacint" ]
+series = [ "Security and Risk Management" ]
+series_order = 1
 +++

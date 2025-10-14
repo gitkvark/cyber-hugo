@@ -1,9 +1,12 @@
 +++
 title = "Confidentialité, intégrité, disponibilité, authenticité et non-répudiation (les 5 piliers de la sécurité de l'information)"
 date = "2025-10-10 00:00:00+0000"
+draft = false
 categories = [ "Domain 1: Security and Risk Management" ]
 tags = [ "CISSP" ]
 authors = [ "jacint" ]
+series = [ "Security and Risk Management" ]
+series_order = 1.2
 +++
 
 La cybersécurité repose sur cinq piliers fondamentaux qui forment le socle de toute démarche visant à protéger les actifs informationnels d’une organisation : confidentialité, intégrité, disponibilité, authenticité et non-répudiation. Ces principes, universellement reconnus, sont souvent désignés sous leurs terminologies anglaises : *Confidentiality*, *Integrity*, *Availability*, *Authenticity* et *Nonrepudiation*. Ils s'appliquent aussi bien aux politiques qu’aux mécanismes techniques mis en œuvre au sein des systèmes d’information.
