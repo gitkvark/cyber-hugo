@@ -1,7 +1,7 @@
 +++
 title = "L'éthique professionnelle en cybersécurité"
 date = '2025-10-10T14:15:18+02:00'
-draft = true
+draft = false
 categories = [ "Domain 1: Security and Risk Management" ]
 tags = [ "CISSP" ]
 authors = [ "jacint" ]
