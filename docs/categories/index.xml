@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Cybersécurité démystifiée</title>
+    <title>Catégories on Cybersécurité Démystifiée</title>
     <link>https://cybersecurite.demystifiee.fr/categories/</link>
-    <description>Recent content in Categories on Cybersécurité démystifiée</description>
+    <description>Recent content in Catégories on Cybersécurité Démystifiée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>© 2025 Jacint BALINT</copyright>
-    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Cyber</title>
-      <link>https://cybersecurite.demystifiee.fr/categories/cyber/</link>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <title>Domain 1: Security and Risk Management</title>
+      <link>https://cybersecurite.demystifiee.fr/categories/domain-1-security-and-risk-management/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://cybersecurite.demystifiee.fr/categories/cyber/</guid>
+      <guid>https://cybersecurite.demystifiee.fr/categories/domain-1-security-and-risk-management/</guid>
       <description></description>
       
     </item>

@@ -4,8 +4,9 @@ baseURL = "https://cybersecurite.demystifiee.fr/"
 defaultContentLanguage = "fr"
 
 enableEmoji = true
+titleCaseStyle = 'none'  # Don't use capital letters in titles and categories
 
-pagination.pagerSize = 20
+pagination.pagerSize = 40
 
 relativeURLs = true
 publishDir = "../docs"

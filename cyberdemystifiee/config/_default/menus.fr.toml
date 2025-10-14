@@ -3,7 +3,7 @@
 [[main]]
   pre = "expand"
   name = "Blog"
-  pageRef = "posts"
+  pageRef = "/"
   weight = 10
 
 [[main]]
@@ -13,9 +13,9 @@
   weight = 20
 
 [[footer]]
-  name = "Authors"
+  name = "Auteurs"
   pageRef = "authors"
 
 [[footer]]
-  name = "Tags"
+  name = "Étiquettes"
   pageRef = "tags"

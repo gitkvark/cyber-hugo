@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cybersécurité démystifiée</title>
+    <title>Étiquettes on Cybersécurité Démystifiée</title>
     <link>https://cybersecurite.demystifiee.fr/tags/</link>
-    <description>Recent content in Tags on Cybersécurité démystifiée</description>
+    <description>Recent content in Étiquettes on Cybersécurité Démystifiée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>© 2025 Jacint BALINT</copyright>
-    <atom:link href="https://cybersecurite.demystifiee.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CISSP</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/cissp/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/cissp/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

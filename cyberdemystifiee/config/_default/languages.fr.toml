@@ -1,6 +1,6 @@
 # config/_default/languages.fr.toml
 
-title = "Cybersécurité démystifiée"
+title = "Cybersécurité Démystifiée"
 
 disabled = false
 languageCode = "fr-FR"
@@ -9,12 +9,5 @@ languageName = "Français"
 [params]
   displayName = "FR"
   isoCode = "fr"
-
-[params.author]
-name = "Jacint BALINT"
-image = "img/profil.jpg"
-headline = "Spécialiste en Cybersécurité"
-bio = "A little bit about me"
-links = [
-  { linkedin = "https://linkedin.com/in/bjacint" }
-]
+  logo = "/img/logo_light.png"
+  secondaryLogo = "/img/logo_dark.png"
