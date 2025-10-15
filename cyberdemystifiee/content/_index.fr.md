@@ -1,5 +1,5 @@
 +++
-title = "Bienvenue sur mon blog dédié à la cybersécurité :tada:"
+title = "Bienvenue sur mon blog dédié à la cybersécurité"
 description = ""
 +++
 
