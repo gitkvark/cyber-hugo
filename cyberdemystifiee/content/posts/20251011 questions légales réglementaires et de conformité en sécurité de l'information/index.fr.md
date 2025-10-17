@@ -3,7 +3,7 @@ title = "La compréhension des enjeux juridiques, réglementaires et de conformi
 date = '2025-10-11T16:06:40+02:00'
 draft = false
 categories = [ "Domain 1: Security and Risk Management" ]
-tags = [ "CISSP" ]
+tags = [ "CISSP", "Common law", "Civil law", "Legal framework", "Customary law", "Religious law", "Computer-assisted crime", "Computer-targeted crime", "Island hopping", "APT", "Due diligence", "Due care", "IP", "PII", "GDPR", "Copyright", "NDA", "Trademark", "Licensing", "Trade secrets", "Data subjects", "Patents"]
 authors = [ "jacint" ]
 series = [ "Security and Risk Management" ]
 series_order = 1.4
@@ -77,7 +77,7 @@ Face à cette hétérogénéité, la meilleure pratique demeure une collaboratio
 
 Le respect de la loi n’est qu’une facette de la conformité : contrats, normes réglementaires et obligations sectorielles forment un écosystème imbriqué qui doit être intégré à la gouvernance globale de l’organisation. Le responsable sécurité, autrefois focalisé sur la configuration des pare-feux et des audits techniques, doit aujourd’hui naviguer dans des réglementations techniques (PCI DSS, FedRAMP), mais aussi dans les exigences contractuelles : par exemple, l’accès aux bases de données clients ou aux infrastructures critiques d’un partenaire suppose la rédaction de clauses précises en matière de confidentialité et de sécurité, assortie d’audits réguliers.
 
-Les notions de *due diligence* (diligence raisonnable) et *due care* (prudence) sont centrales. La diligence consiste à réunir toutes les informations nécessaires pour prendre de bonnes décisions : cartographie des menaces, gestion documentaire, suivi des audits. La prudence, elle, implique d’agir comme une personne raisonnable et avisée le ferait dans une même situation : suivre les recommandations de sécurité, former le personnel, réagir efficacement à une alerte.
+Les notions de *due diligence* (le devoir de diligence) et *due care* (l’obligation de prudence) sont centrales. La diligence consiste à réunir toutes les informations nécessaires pour prendre de bonnes décisions : cartographie des menaces, gestion documentaire, suivi des audits. La prudence, elle, implique d’agir comme une personne raisonnable et avisée le ferait dans une même situation : suivre les recommandations de sécurité, former le personnel, réagir efficacement à une alerte.
 
 En cas de manquement, la responsabilité peut être engagée civilement, administrativement ou même pénalement. Les enquêtes peuvent ainsi être :
 - Administratives, à la suite de violations de politiques internes ou industrielles ;

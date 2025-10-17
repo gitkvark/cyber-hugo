@@ -3,7 +3,7 @@ title = "Introduction à la certification CISSP"
 date = "2025-10-09 00:00:00+0000"
 draft = false
 categories = [  ]
-tags = [ "CISSP" ]
+tags = [ "CISSP", "Common Body of Knowledge", "Exam" ]
 authors = [ "jacint" ]
 +++
 

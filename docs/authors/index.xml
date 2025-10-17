@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 16:06:40 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 14:06:58 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Jacint BALINT</title>
       <link>https://cybersecurite.demystifiee.fr/authors/jacint/</link>
-      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
       
       <guid>https://cybersecurite.demystifiee.fr/authors/jacint/</guid>
       <description>&lt;div id=&#34;gallery-782252daa9f3fa9b2dfb59e97dda6192&#34; class=&#34;gallery&#34;&gt;
@@ -20,8 +20,17 @@
   &lt;img src=&#34;../authors/jacint/profil.jpg&#34; class=&#34;grid-w20 rounded-full&#34; /&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Plus de 10 ans d’expérience dans le domaine des technologies de l’information, je combine des compétences techniques approfondies avec une expertise en gestion de projets dans la sécurité physique. Pendant 8 ans, j’ai travaillé chez Google en tant que technical project manager spécialisé en sécurité physique, où j’ai piloté des projets complexes visant à protéger des infrastructures critiques et garantir la sûreté des installations.&lt;/p&gt;
-&lt;p&gt;Cette double expérience — technique et managériale, dans les univers IT et sécurité physique — me confère une vision élargie et pragmatique des enjeux de sécurité. Aujourd’hui, je mets cette richesse au service d’une ambitieuse transition vers la cybersécurité dans sa globalité, domaine où la convergence entre protection physique et digitale devient essentielle.&lt;/p&gt;</description>
+
+&lt;h2 class=&#34;relative group&#34;&gt;About me 
+    &lt;div id=&#34;about-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#about-me&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Titulaire d’un diplôme professionnel en informatique, je cumule plus de dix ans d’expérience dans ce domaine, dont huit passées au sein d’un centre de données Google en tant qu’ingénieur et responsable d’équipe. À ce poste, j’ai dirigé les opérations critiques liées à la maintenance, l’installation et le déclassement des serveurs et clusters, ainsi qu’à la supervision des infrastructures réseau. Ce rôle de leadership m’a permis de développer une expertise pointue dans la gestion d’équipes techniques et la coordination de processus complexes à grande échelle.&lt;/p&gt;</description>
       
     </item>
     

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Administrative Investigation on Cybersécurité Démystifiée</title>
+    <link>https://cybersecurite.demystifiee.fr/tags/administrative-investigation/</link>
+    <description>Recent content in Administrative Investigation on Cybersécurité Démystifiée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 12 Oct 2025 13:39:20 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/administrative-investigation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Les exigences des types d’investigation en cybersécurité</title>
+      <link>https://cybersecurite.demystifiee.fr/posts/20251012-investigation-en-cybers%C3%A9curit%C3%A9/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/posts/20251012-investigation-en-cybers%C3%A9curit%C3%A9/</guid>
+      <description>&lt;p&gt;Dans le monde de la cybersécurité, savoir réagir à des incidents ne suffit pas : il est tout aussi essentiel de comprendre la diversité des cadres légaux et organisationnels qui régissent les investigations. Que ce soit un incident technique ou une violation d’éthique, l’entreprise doit évaluer avec rationalité la nature de l’événement et appliquer la procédure adéquate selon la typologie du cas : administrative, criminelle, civile, réglementaire, ou guidée par les standards du secteur.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cybersecurite.demystifiee.fr/posts/20251012-investigation-en-cybers%C3%A9curit%C3%A9/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

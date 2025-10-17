@@ -7,14 +7,524 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 16:06:40 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 14:06:58 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Baseline</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/baseline/</link>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/baseline/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>CISSP</title>
       <link>https://cybersecurite.demystifiee.fr/tags/cissp/</link>
-      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
       
       <guid>https://cybersecurite.demystifiee.fr/tags/cissp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guidelines</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/guidelines/</link>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/guidelines/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Procedures</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/procedures/</link>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/procedures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security posture</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-posture/</link>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-posture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security program</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-program/</link>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-program/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Standards</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/standards/</link>
+      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/standards/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Administrative Investigation</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/administrative-investigation/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/administrative-investigation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chain of custody</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/chain-of-custody/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/chain-of-custody/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Civil Investigation</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/civil-investigation/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/civil-investigation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Criminal Investigation</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/criminal-investigation/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/criminal-investigation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GDPR</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/gdpr/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/gdpr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Intellectual property</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/intellectual-property/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/intellectual-property/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Investigations</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/investigations/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/investigations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Regulatory Investigation</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/regulatory-investigation/</link>
+      <pubDate>Sun, 12 Oct 2025 13:39:20 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/regulatory-investigation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>APT</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/apt/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/apt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Civil law</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/civil-law/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/civil-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Common law</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/common-law/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/common-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer-assisted crime</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/computer-assisted-crime/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/computer-assisted-crime/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer-targeted crime</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/computer-targeted-crime/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/computer-targeted-crime/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Copyright</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/copyright/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/copyright/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Customary law</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/customary-law/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/customary-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data subjects</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/data-subjects/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/data-subjects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Due care</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/due-care/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/due-care/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Due diligence</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/due-diligence/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/due-diligence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IP</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/ip/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/ip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Island hopping</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/island-hopping/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/island-hopping/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legal framework</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/legal-framework/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/legal-framework/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Licensing</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/licensing/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/licensing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NDA</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/nda/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/nda/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/patents/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/patents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PII</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/pii/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/pii/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Religious law</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/religious-law/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/religious-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trade secrets</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/trade-secrets/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/trade-secrets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trademark</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/trademark/</link>
+      <pubDate>Sat, 11 Oct 2025 16:06:40 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/trademark/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accountability</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/accountability/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/accountability/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alignment</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/alignment/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/alignment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Governance</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/governance/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/governance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Responsibility</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/responsibility/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/responsibility/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security architecture</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-architecture/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security awareness</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-awareness/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-awareness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security policy</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-policy/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-policy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authenticity</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/authenticity/</link>
+      <pubDate>Fri, 10 Oct 2025 16:13:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/authenticity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Availability</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/availability/</link>
+      <pubDate>Fri, 10 Oct 2025 16:13:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/availability/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Confidentiality</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/confidentiality/</link>
+      <pubDate>Fri, 10 Oct 2025 16:13:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/confidentiality/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Integrity</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/integrity/</link>
+      <pubDate>Fri, 10 Oct 2025 16:13:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/integrity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nonrepudiation</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/nonrepudiation/</link>
+      <pubDate>Fri, 10 Oct 2025 16:13:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/nonrepudiation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/ethics/</link>
+      <pubDate>Fri, 10 Oct 2025 14:15:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/ethics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Public trust</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/public-trust/</link>
+      <pubDate>Fri, 10 Oct 2025 14:15:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/public-trust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The common good</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/the-common-good/</link>
+      <pubDate>Fri, 10 Oct 2025 14:15:18 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/the-common-good/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Common Body of Knowledge</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/common-body-of-knowledge/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/common-body-of-knowledge/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Exam</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/exam/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/exam/</guid>
       <description></description>
       
     </item>

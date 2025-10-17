@@ -6,14 +6,14 @@ title = "Jacint BALINT"
   <img src="profil.jpg" class="grid-w20 rounded-full" />
 {{</gallery>}}
 
-Plus de 10 ans d’expérience dans le domaine des technologies de l’information, je combine des compétences techniques approfondies avec une expertise en gestion de projets dans la sécurité physique. Pendant 8 ans, j’ai travaillé chez Google en tant que technical project manager spécialisé en sécurité physique, où j’ai piloté des projets complexes visant à protéger des infrastructures critiques et garantir la sûreté des installations.
+## About me
 
-Cette double expérience — technique et managériale, dans les univers IT et sécurité physique — me confère une vision élargie et pragmatique des enjeux de sécurité. Aujourd’hui, je mets cette richesse au service d’une ambitieuse transition vers la cybersécurité dans sa globalité, domaine où la convergence entre protection physique et digitale devient essentielle.
+Titulaire d’un diplôme professionnel en informatique, je cumule plus de dix ans d’expérience dans ce domaine, dont huit passées au sein d’un centre de données Google en tant qu’ingénieur et responsable d’équipe. À ce poste, j’ai dirigé les opérations critiques liées à la maintenance, l’installation et le déclassement des serveurs et clusters, ainsi qu’à la supervision des infrastructures réseau. Ce rôle de leadership m’a permis de développer une expertise pointue dans la gestion d’équipes techniques et la coordination de processus complexes à grande échelle.
 
-Ma force réside dans cette combinaison rare de connaissances IT solides, d’expérience pointue en sécurité physique, et de compétences en gestion de projets, qui me permettent d’aborder la cybersécurité sous un angle transversal.
+J’ai ensuite occupé pendant huit ans le poste de chef de projet technique au sein de l’équipe Data Center Security — devenue plus tard CSRM (Compliance, Security and Risk Management). J’y ai piloté la rédaction et la mise à jour des politiques de sécurité, la gestion des appels d’offres, ainsi que plusieurs projets mondiaux de renouvellement des équipements de sécurité physique (caméras, enregistreurs, contrôles d’accès). J’étais également chargé de coordonner les sous-traitants responsables de la maintenance et de l’installation de ces dispositifs dans l’ensemble des centres de données Google à l’international.
 
-Installé dans la région de Rouen, en Normandie, je prépare actuellement la certification CISSP. Ce blog est un espace où je partage mon cheminement, mes apprentissages, ainsi que les dernières tendances en cybersécurité, en espérant créer un dialogue constructif avec d’autres professionnels et passionnés.
+Diplômé en ingénierie DevOps et certifié SOC Analyst, je possède une base technique solide nourrie par des années d’expérience sur le terrain, alliée à une maîtrise éprouvée de la gestion de projets complexes et de la sécurité opérationnelle. 
 
-Vous trouverez ici des analyses, des articles techniques, et des retours d’expérience pour mieux comprendre et anticiper les défis complexes de la sécurité numérique. N’hésitez pas à me contacter pour échanger ou collaborer sur des projets liés à la sécurité de l'information.
+Actuellement, je prépare la certification CISSP afin de renforcer et valider mon expertise dans le domaine de la cybersécurité, dans la continuité de mon engagement pour l’excellence technique et la sécurité globale des infrastructures.
 
 ***
