@@ -12,7 +12,7 @@ Titulaire d’un diplôme professionnel en informatique, je cumule plus de dix a
 
 J’ai ensuite occupé pendant huit ans le poste de chef de projet technique au sein de l’équipe Data Center Security — devenue plus tard CSRM (Compliance, Security and Risk Management). J’y ai piloté la rédaction et la mise à jour des politiques de sécurité, la gestion des appels d’offres, ainsi que plusieurs projets mondiaux de renouvellement des équipements de sécurité physique (caméras, enregistreurs, contrôles d’accès). J’étais également chargé de coordonner les sous-traitants responsables de la maintenance et de l’installation de ces dispositifs dans l’ensemble des centres de données Google à l’international.
 
-Diplômé en ingénierie DevOps et certifié SOC Analyst, je possède une base technique solide nourrie par des années d’expérience sur le terrain, alliée à une maîtrise éprouvée de la gestion de projets complexes et de la sécurité opérationnelle. 
+Récemment diplômé en ingénierie DevOps et certifié Analyste SOC, je possède une base technique solide nourrie par des années d’expérience sur le terrain, alliée à une maîtrise éprouvée de la gestion de projets complexes et de la sécurité opérationnelle. 
 
 Actuellement, je prépare la certification CISSP afin de renforcer et valider mon expertise dans le domaine de la cybersécurité, dans la continuité de mon engagement pour l’excellence technique et la sécurité globale des infrastructures.
 
