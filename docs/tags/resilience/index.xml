@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resilience on Cybersécurité Démystifiée</title>
+    <link>https://cybersecurite.demystifiee.fr/tags/resilience/</link>
+    <description>Recent content in Resilience on Cybersécurité Démystifiée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 13 Oct 2025 12:09:13 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La continuité d&#39;activité : fondamentaux pour la résilience des entreprises</title>
+      <link>https://cybersecurite.demystifiee.fr/posts/20251013-la-continuit%C3%A9-dactivite-_-fondamentaux-pour-la-r%C3%A9silience-des-entreprises/</link>
+      <pubDate>Mon, 13 Oct 2025 12:09:13 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/posts/20251013-la-continuit%C3%A9-dactivite-_-fondamentaux-pour-la-r%C3%A9silience-des-entreprises/</guid>
+      <description>&lt;p&gt;À l’ère de la digitalisation et de la multiplicité des risques, la résilience organisationnelle n’est plus une option mais une nécessité. La continuité d’activité (&lt;em&gt;Business Continuity, BC&lt;/em&gt;) représente l’aptitude d’une organisation à poursuivre ou à rétablir rapidement ses fonctions essentielles en cas de perturbation, qu’il s’agisse d’un incident mineur (panne de courant, absence d’un collaborateur clé) ou d’une catastrophe majeure (séisme, cyberattaque, incendie). Contrairement à la gestion de catastrophe (&lt;em&gt;Disaster Recovery, DR&lt;/em&gt;), centrée sur la récupération après sinistre, la BC vise à garantir la persistance des opérations vitales, en intégrant une vision anticipative et globale de la gestion des risques.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cybersecurite.demystifiee.fr/posts/20251013-la-continuit%C3%A9-dactivite-_-fondamentaux-pour-la-r%C3%A9silience-des-entreprises/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
