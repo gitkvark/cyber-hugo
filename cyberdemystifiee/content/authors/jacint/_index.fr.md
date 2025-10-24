@@ -3,7 +3,7 @@ title = "Jacint BALINT"
 +++
 
 {{<gallery>}}
-  <img src="profil.jpg" class="grid-w20 rounded-full" />
+  <img src="feature.jpg" class="grid-w20 rounded-full" />
 {{</gallery>}}
 
 ## About me

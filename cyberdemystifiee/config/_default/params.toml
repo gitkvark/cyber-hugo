@@ -148,11 +148,11 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
+  websiteid = "e96c9bc8-f786-43eb-b936-c9f5d08ea0ff"
+  domain = "t.demystifiee.fr"
+  dataDomains = "cybersecurite.demystifiee.fr"
+  scriptName = "script.js"
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
