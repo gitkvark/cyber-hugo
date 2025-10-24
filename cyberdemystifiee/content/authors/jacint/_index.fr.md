@@ -14,6 +14,6 @@ J’ai ensuite occupé pendant huit ans le poste de chef de projet technique au 
 
 Récemment diplômé en ingénierie DevOps et certifié Analyste SOC, je possède une base technique solide nourrie par des années d’expérience sur le terrain, alliée à une maîtrise éprouvée de la gestion de projets complexes et de la sécurité opérationnelle. 
 
-Actuellement, je prépare la certification CISSP afin de renforcer et valider mon expertise dans le domaine de la cybersécurité, dans la continuité de mon engagement pour l’excellence technique et la sécurité globale des infrastructures.
+Actuellement, je prépare la certification CISSP afin de renforcer et valider mon expertise dans le domaine de la cybersécurité, dans la continuité de mon engagement pour l’excellence technique et la sécurité des infrastructures.
 
 ***
