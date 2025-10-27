@@ -8,7 +8,7 @@ titleCaseStyle = 'none'  # Don't use capital letters in titles and categories
 
 pagination.pagerSize = 40
 
-relativeURLs = true
+# relativeURLs = true
 publishDir = "../docs"
 
 [imaging]
