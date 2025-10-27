@@ -7,16 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Mon, 13 Oct 2025 12:09:13 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/sla/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 15:31:02 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/sla/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comprendre la gestion des risques de la chaîne d’approvisionnement</title>
+      <link>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251015-la-gestion-des-risques-de-la-chaine-d_approvisionnement/</link>
+      <pubDate>Wed, 15 Oct 2025 15:31:02 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251015-la-gestion-des-risques-de-la-chaine-d_approvisionnement/</guid>
+      <description>&lt;p&gt;La gestion des risques liés à la chaîne d’approvisionnement (&lt;em&gt;Supply Chain Risk Management – SCRM&lt;/em&gt;) est devenue une problématique incontournable en cybersécurité. Dans un monde hyperconnecté, la multitude de fournisseurs – qu’il s’agisse de matériel, de logiciels ou de services – expose les organisations à une surface d’attaque particulièrement vaste. Maîtriser le &lt;em&gt;Supply Chain Risk Management&lt;/em&gt; est donc essentiel pour protéger les actifs, préserver la réputation et assurer la continuité des activités.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cybersecurite.demystifiee.fr/articles/cissp/i/20251015-la-gestion-des-risques-de-la-chaine-d_approvisionnement/feature.png" />
+    </item>
     
     <item>
       <title>La continuité d&#39;activité : fondamentaux pour la résilience des entreprises</title>
-      <link>https://cybersecurite.demystifiee.fr/posts/2025/10/20251013-la-continuite-d_activite-_-fondamentaux-pour-la-resilience-des-entreprises/</link>
+      <link>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251013-la-continuite-d_activite-_-fondamentaux-pour-la-resilience-des-entreprises/</link>
       <pubDate>Mon, 13 Oct 2025 12:09:13 +0200</pubDate>
       
-      <guid>https://cybersecurite.demystifiee.fr/posts/2025/10/20251013-la-continuite-d_activite-_-fondamentaux-pour-la-resilience-des-entreprises/</guid>
+      <guid>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251013-la-continuite-d_activite-_-fondamentaux-pour-la-resilience-des-entreprises/</guid>
       <description>&lt;p&gt;À l’ère de la digitalisation et de la multiplicité des risques, la résilience organisationnelle n’est plus une option mais une nécessité. La continuité d’activité (&lt;em&gt;Business Continuity, BC&lt;/em&gt;) représente l’aptitude d’une organisation à poursuivre ou à rétablir rapidement ses fonctions essentielles en cas de perturbation, qu’il s’agisse d’un incident mineur (panne de courant, absence d’un collaborateur clé) ou d’une catastrophe majeure (séisme, cyberattaque, incendie). Contrairement à la gestion de catastrophe (&lt;em&gt;Disaster Recovery, DR&lt;/em&gt;), centrée sur la récupération après sinistre, la BC vise à garantir la persistance des opérations vitales, en intégrant une vision anticipative et globale de la gestion des risques.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cybersecurite.demystifiee.fr/posts/2025/10/20251013-la-continuite-d_activite-_-fondamentaux-pour-la-resilience-des-entreprises/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cybersecurite.demystifiee.fr/articles/cissp/i/20251013-la-continuite-d_activite-_-fondamentaux-pour-la-resilience-des-entreprises/feature.png" />
     </item>
     
   </channel>

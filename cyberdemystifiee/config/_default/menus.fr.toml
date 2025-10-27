@@ -2,15 +2,23 @@
 
 [[main]]
   pre = "expand"
-  name = "Blog"
-  pageRef = "/"
+  name = "Articles CISSP"
+  pageRef = "/articles/cissp"
   weight = 10
 
 [[main]]
-  pre = "bars"
-  name = "Catégories"
-  pageRef = "categories"
+  pre = "expand"
+  name = "Security and Risk Management"
+  pageRef = "/articles/cissp/i/"
+  weight = 10
+  parent = "Articles CISSP"
+
+[[main]]
+  pre = "expand"
+  name = "Asset Security"
+  pageRef = "/articles/cissp/ii/"
   weight = 20
+  parent = "Articles CISSP"
 
 [[footer]]
   name = "Auteurs"

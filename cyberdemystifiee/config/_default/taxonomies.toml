@@ -1,6 +1,6 @@
 # config/_default/taxonomies.toml
 
 tag = "tags"
-category = "categories"
+# category = "categories"
 author = "authors"
 series = "series"

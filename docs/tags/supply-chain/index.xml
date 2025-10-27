@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supply chain on Cybersécurité Démystifiée</title>
+    <link>https://cybersecurite.demystifiee.fr/tags/supply-chain/</link>
+    <description>Recent content in Supply chain on Cybersécurité Démystifiée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 15 Oct 2025 15:31:02 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/supply-chain/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comprendre la gestion des risques de la chaîne d’approvisionnement</title>
+      <link>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251015-la-gestion-des-risques-de-la-chaine-d_approvisionnement/</link>
+      <pubDate>Wed, 15 Oct 2025 15:31:02 +0200</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251015-la-gestion-des-risques-de-la-chaine-d_approvisionnement/</guid>
+      <description>&lt;p&gt;La gestion des risques liés à la chaîne d’approvisionnement (&lt;em&gt;Supply Chain Risk Management – SCRM&lt;/em&gt;) est devenue une problématique incontournable en cybersécurité. Dans un monde hyperconnecté, la multitude de fournisseurs – qu’il s’agisse de matériel, de logiciels ou de services – expose les organisations à une surface d’attaque particulièrement vaste. Maîtriser le &lt;em&gt;Supply Chain Risk Management&lt;/em&gt; est donc essentiel pour protéger les actifs, préserver la réputation et assurer la continuité des activités.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://cybersecurite.demystifiee.fr/articles/cissp/i/20251015-la-gestion-des-risques-de-la-chaine-d_approvisionnement/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
