@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on Cybersécurité Démystifiée</title>
+    <link>https://cybersecurite.demystifiee.fr/tags/training/</link>
+    <description>Recent content in Training on Cybersécurité Démystifiée</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Thu, 16 Oct 2025 17:15:30 +0100</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La sensibilisation à la sécurité</title>
+      <link>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251016-sensibilisation-a-la-securite/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/articles/cissp/i/20251016-sensibilisation-a-la-securite/</guid>
+      <description>&lt;p&gt;Même les meilleures politiques et technologies de sécurité sont inutiles si les employés ne les connaissent pas ou ne les appliquent pas correctement. Un programme de sensibilisation à la sécurité (&lt;em&gt;security awareness program&lt;/em&gt;) vise à transmettre le « quoi, comment et pourquoi » des mesures de sécurité à tout le personnel. Un programme efficace doit couvrir toutes les couches de l’organisation, adapter les contenus aux besoins de chaque type d’employés et clarifier les attentes ainsi que les éventuelles conséquences en cas de non-conformité.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

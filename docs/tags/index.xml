@@ -7,14 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 15:31:02 +0200</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 17:15:30 +0100</lastBuildDate><atom:link href="https://cybersecurite.demystifiee.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CISSP</title>
       <link>https://cybersecurite.demystifiee.fr/tags/cissp/</link>
-      <pubDate>Wed, 15 Oct 2025 15:31:02 +0200</pubDate>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
       
       <guid>https://cybersecurite.demystifiee.fr/tags/cissp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/education/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/education/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gamification</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/gamification/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/gamification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guidelines</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/guidelines/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/guidelines/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security awareness</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-awareness/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-awareness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security policy</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-policy/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-policy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security program</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/security-program/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/security-program/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Social engineering</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/social-engineering/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/social-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://cybersecurite.demystifiee.fr/tags/training/</link>
+      <pubDate>Thu, 16 Oct 2025 17:15:30 +0100</pubDate>
+      
+      <guid>https://cybersecurite.demystifiee.fr/tags/training/</guid>
       <description></description>
       
     </item>
@@ -220,16 +300,6 @@
     </item>
     
     <item>
-      <title>Security awareness</title>
-      <link>https://cybersecurite.demystifiee.fr/tags/security-awareness/</link>
-      <pubDate>Mon, 13 Oct 2025 12:34:34 +0200</pubDate>
-      
-      <guid>https://cybersecurite.demystifiee.fr/tags/security-awareness/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Termination</title>
       <link>https://cybersecurite.demystifiee.fr/tags/termination/</link>
       <pubDate>Mon, 13 Oct 2025 12:34:34 +0200</pubDate>
@@ -360,16 +430,6 @@
     </item>
     
     <item>
-      <title>Guidelines</title>
-      <link>https://cybersecurite.demystifiee.fr/tags/guidelines/</link>
-      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
-      
-      <guid>https://cybersecurite.demystifiee.fr/tags/guidelines/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Procedures</title>
       <link>https://cybersecurite.demystifiee.fr/tags/procedures/</link>
       <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
@@ -380,31 +440,11 @@
     </item>
     
     <item>
-      <title>Security policy</title>
-      <link>https://cybersecurite.demystifiee.fr/tags/security-policy/</link>
-      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
-      
-      <guid>https://cybersecurite.demystifiee.fr/tags/security-policy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Security posture</title>
       <link>https://cybersecurite.demystifiee.fr/tags/security-posture/</link>
       <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
       
       <guid>https://cybersecurite.demystifiee.fr/tags/security-posture/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Security program</title>
-      <link>https://cybersecurite.demystifiee.fr/tags/security-program/</link>
-      <pubDate>Sun, 12 Oct 2025 14:06:58 +0200</pubDate>
-      
-      <guid>https://cybersecurite.demystifiee.fr/tags/security-program/</guid>
       <description></description>
       
     </item>
