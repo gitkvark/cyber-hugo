@@ -89,8 +89,6 @@ Aucune entreprise n’opère en silos. Les dépendances externes (*external depe
 - Exiger des audits externes réguliers et une transparence sur les plans de continuité des partenaires
 - Intégrer les dépendances externes à la BIA et au plan de continuité (BCP)
 
-***
-
 ## Indicateurs de succès et gouvernance
 
 Pour évaluer l’efficacité de la démarche, il s’agit d’adopter des indicateurs concrets :
